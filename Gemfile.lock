@@ -1,6 +1,6 @@
 GIT
-  remote: https://github.com/kivanio/brcobranca.git
-  revision: 325e0eae69ad298477b935a441a22c61c7556f31
+  remote: https://github.com/crsilveira/brcobranca.git
+  revision: 7019aa07ddd4b663d2867907db731429684d8055
   specs:
     brcobranca (12.0.0)
       fast_blank (>= 1.0.1)
